@@ -1,0 +1,3 @@
+This course have 5 programming assignment 2 course project, 2 fractal exams and 1 final exam. The course project is a group project. 
+-- 5 programming assignment | 2 course project | 2 fractal exams | 1 final exam
+-- 30 % | 30 % | 20 % | 30 %
